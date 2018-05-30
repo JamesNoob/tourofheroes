@@ -1,0 +1,27 @@
+1527571923130
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-171531733￿1527571923122
+sbt￿stub:org.jetbrains.plugins.scala.lang.psi.stubs.elements.ScStubFileElementType,287￿1527571923125
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-171531733￿1527571923114
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1527571923105
+Play2￿stub:com.intellij.scala.play.language.lexer.Play2TemplateElementTypes$1,1044609879￿1527571923100
+Scala￿stub:org.jetbrains.plugins.scala.lang.psi.stubs.elements.ScStubFileElementType,287￿1527571923117
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1527571923113
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1527571923128
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,1804543718￿1527571923111
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923098
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-171531733￿1527571923116
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923103
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923097
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1527571923127
+CFML￿stub:com.intellij.coldFusion.model.psi.stubs.CfmlFileElementType,1044609626￿1527571923102
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923095
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,12￿1527571923108
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923101
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923096
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1527571923099
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,41￿1527571923110
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1527571923109
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1527571923120
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,125￿1527571923119
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1527571923107
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,38￿1527571923115

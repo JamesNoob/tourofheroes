@@ -1,0 +1,440 @@
+2018-05-29 13:27:38,036 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-05-29 13:27:38,106 [     70]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-181.4203.550, 27 Mar 2018 03:38) 
+2018-05-29 13:27:38,106 [     70]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-43-generic, amd64) 
+2018-05-29 13:27:38,106 [     70]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b20 (JetBrains s.r.o) 
+2018-05-29 13:27:38,106 [     70]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b20 (OpenJDK 64-Bit Server VM) 
+2018-05-29 13:27:38,107 [     71]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/jamessaludario/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/jamessaludario/java_error_in_IDEA.hprof -Didea.paths.selector=IntelliJIdea2018.1 -Djb.vmOptionsFile=/opt/idea-IU-181.4203.550/bin/idea64.vmoptions -Didea.jre.check=true 
+2018-05-29 13:27:38,107 [     71]   INFO -        #com.intellij.idea.Main - ext: /opt/idea-IU-181.4203.550/jre64/lib/ext: [cldrdata.jar, sunpkcs11.jar, meta-index, localedata.jar, zipfs.jar, nashorn.jar, sunjce_provider.jar, dnsns.jar, sunec.jar, jaccess.jar, jfxrt.jar] 
+2018-05-29 13:27:38,107 [     71]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-05-29 13:27:38,118 [     82]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 11 ms 
+2018-05-29 13:27:38,244 [    208]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-05-29 13:27:38,244 [    208]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-05-29 13:31:19,864 [ 221828]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/pluginManager/?action=download&id=org.intellij.scala&build=IU-181.4203.550&uuid=79ff5756-4fd6-4f09-aa0e-e5877f98cd63 
+2018-05-29 13:31:33,337 [ 235301]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/pluginManager/?action=download&id=com.intellij.plugins.html.instantEditing&build=IU-181.4203.550&uuid=79ff5756-4fd6-4f09-aa0e-e5877f98cd63 
+2018-05-29 13:31:35,632 [ 237596]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/pluginManager/?action=download&id=NodeJS&build=IU-181.4203.550&uuid=79ff5756-4fd6-4f09-aa0e-e5877f98cd63 
+2018-05-29 13:31:38,655 [ 240619]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/pluginManager/?action=download&id=training&build=IU-181.4203.550&uuid=79ff5756-4fd6-4f09-aa0e-e5877f98cd63 
+2018-05-29 13:31:46,589 [ 248553]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@27d89618[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@51538844 
+2018-05-29 13:31:46,611 [ 248575]   INFO - .intellij.idea.IdeaApplication - WM detected: Compiz 
+2018-05-29 13:31:47,008 [ 248972]   INFO - llij.ide.plugins.PluginManager - Plugin 'CVS Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,016 [ 248980]   INFO - llij.ide.plugins.PluginManager - Plugin 'Perforce Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,016 [ 248980]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,016 [ 248980]   INFO - llij.ide.plugins.PluginManager - Plugin 'TFS Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,017 [ 248981]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring AOP/@AspectJ' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,017 [ 248981]   INFO - llij.ide.plugins.PluginManager - Plugin 'Ant Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,017 [ 248981]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,018 [ 248982]   INFO - llij.ide.plugins.PluginManager - Plugin 'Velocity support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,018 [ 248982]   INFO - llij.ide.plugins.PluginManager - Plugin 'Mercurial Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,018 [ 248982]   INFO - llij.ide.plugins.PluginManager - Plugin 'AngularJS' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,018 [ 248982]   INFO - llij.ide.plugins.PluginManager - Plugin 'Persistence Frameworks Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,018 [ 248982]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,019 [ 248983]   INFO - llij.ide.plugins.PluginManager - Plugin 'Osmorc' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,019 [ 248983]   INFO - llij.ide.plugins.PluginManager - Plugin 'Flash/Flex Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: EJB, JPA, Servlets' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'GlassFish Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'JSR45 Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'Jetty Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,020 [ 248984]   INFO - llij.ide.plugins.PluginManager - Plugin 'Resin Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tomcat and TomEE Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'CloudBees integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'Geronimo Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebSphere Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebLogic Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,021 [ 248985]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Bean Validation Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,022 [ 248986]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Contexts and Dependency Injection' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,022 [ 248986]   INFO - llij.ide.plugins.PluginManager - Plugin 'Hibernate Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,022 [ 248986]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Batch Applications' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,022 [ 248986]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: JMS, JSON Processing, Concurrency, Transaction ' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,022 [ 248986]   INFO - llij.ide.plugins.PluginManager - Plugin 'Application Servers View' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: WebSockets' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Frameworks Base Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Drools Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Arquillian Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java Server Pages (JSP) Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,023 [ 248987]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 1.x' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss jBPM' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Java Server Faces' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pageflow Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pages Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,024 [ 248988]   INFO - llij.ide.plugins.PluginManager - Plugin 'Cloud Foundry integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,025 [ 248989]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Web Services (JAX-WS)' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,025 [ 248989]   INFO - llij.ide.plugins.PluginManager - Plugin 'dmServer Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,025 [ 248989]   INFO - llij.ide.plugins.PluginManager - Plugin 'FreeMarker support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,025 [ 248989]   INFO - llij.ide.plugins.PluginManager - Plugin 'GWT Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,025 [ 248989]   INFO - llij.ide.plugins.PluginManager - Plugin 'Google App Engine Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Vaadin Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Batch' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring OSGi' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Data' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring MVC' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Security' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,026 [ 248990]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Integration Patterns' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,028 [ 248992]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Flow' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,028 [ 248992]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring WebSocket' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,029 [ 248993]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Services' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,029 [ 248993]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 2' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,029 [ 248993]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tapestry support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,029 [ 248993]   INFO - llij.ide.plugins.PluginManager - Plugin 'Thymeleaf' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,029 [ 248993]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: RESTful Web Services (JAX-RS)' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,030 [ 248994]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration Extension' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,030 [ 248994]   INFO - llij.ide.plugins.PluginManager - Plugin 'Grails' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,030 [ 248994]   INFO - llij.ide.plugins.PluginManager - Plugin 'Haml' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,030 [ 248994]   INFO - llij.ide.plugins.PluginManager - Plugin 'Stylus support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,030 [ 248994]   INFO - llij.ide.plugins.PluginManager - Plugin 'CoffeeScript' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,031 [ 248995]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Boot' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,031 [ 248995]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spy-js' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,031 [ 248995]   INFO - llij.ide.plugins.PluginManager - Plugin 'tslint' can't be loaded because: Plugin is disabled 
+2018-05-29 13:31:47,103 [ 249067]   INFO - llij.ide.plugins.PluginManager - 136 plugins initialized in 405 ms 
+2018-05-29 13:31:47,104 [ 249068]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.0), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (181.4203.550), Copyright (8.1), Coverage (181.4203.550), Cucumber for Groovy (181.4203.550), Cucumber for Java (181.4203.550), DSM Analysis (1.0.0), Database Tools and SQL (181.4203.550), Eclipse Integration (3.0), EditorConfig (181.4203.550), Emma (181.4203.550), Gherkin (999.999), Git Integration (8.1), GitHub (181.4203.550), Gradle (181.4203.550), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (181.4203.550), Heroku integration (181.4203.550), I18n for Java (181.4203.550), IDE Settings Sync (181.4203.550), IDEA CORE (181.4203.550), IntelliLang (8.0), J2ME (1.0), JUnit (1.0), Java Bytecode Decompiler (181.4203.550), Java Stream Debugger (181.4203.550), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Kotlin (1.2.30-release-IJ2018.1-1), Less support (181.4203.550), Markdown support (181.4203.550), OpenShift integration (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (181.4203.550), QuirksMode (181.4203.550), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (181.4203.550), Settings Repository (181.4203.550), Smali Support (1.0), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), UI Designer (181.4203.550), UML Support (1.0), W3C Validators (2.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (181.4203.550), ZKM-Unscramble (1.0) 
+2018-05-29 13:31:47,104 [ 249068]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: IDE Features Trainer (0.8.62), LiveEdit (181.3870.1), NodeJS (181.4096.12), Scala (2018.1.9) 
+2018-05-29 13:31:47,104 [ 249068]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: AngularJS (181.4203.550), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (181.4203.550), Flash/Flex Support (181.4203.550), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Grails (9.0), Haml (181.4203.550), Hibernate Support (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Jetty Integration (1.0), Maven Integration (181.4203.550), Maven Integration Extension (181.4203.550), Mercurial Integration (10.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Resin Integration (8.1), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (181.4203.550), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), TestNG-J (8.0), Thymeleaf (1.0), Tomcat and TomEE Integration (1.0), Vaadin Support (1.0), Velocity support (1.0), WebLogic Integration (1.0), WebSphere Integration (1.0), dmServer Support (0.9.5), tslint (181.4203.550) 
+2018-05-29 13:31:47,755 [ 249719]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-05-29 13:31:47,814 [ 249778]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/jamessaludario/.IntelliJIdea2018.1/system/caches/names.dat' does not exist 
+2018-05-29 13:31:47,815 [ 249779]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-05-29 13:31:47,839 [ 249803]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:31:47,840 [ 249804]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-05-29 13:31:48,548 [ 250512]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-05-29 13:31:48,637 [ 250601]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-05-29 13:31:48,637 [ 250601]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-05-29 13:31:48,684 [ 250648]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-05-29 13:31:48,759 [ 250723]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@554a8c27 
+2018-05-29 13:31:48,779 [ 250743]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-05-29 13:31:48,825 [ 250789]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-05-29 13:31:48,873 [ 250837]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-05-29 13:31:49,108 [ 251072]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:204, number of extensions:55 
+2018-05-29 13:31:49,122 [ 251086]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:14 
+2018-05-29 13:31:49,220 [ 251184]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:80, number of extensions:113 
+2018-05-29 13:31:49,221 [ 251185]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-05-29 13:31:49,515 [ 251479]   INFO - pi.util.registry.RegistryValue - Registry value 'SBT.system.in.process' has changed to 'true" 
+2018-05-29 13:31:50,051 [ 252015]   INFO - plication.impl.ApplicationImpl - 103 application components initialized in 3371ms 
+2018-05-29 13:31:50,084 [ 252048]   INFO - .intellij.idea.IdeaApplication - App initialization took 252417 ms 
+2018-05-29 13:31:50,187 [ 252151]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:JavaScript,HTML,Less,CFML,sbt,JSX Harmony,Play2,KJSM,TypeScript,SCSS,Kotlin,Flow,Scala,kotlin_builtins,Groovy,CLASS,CSS,TypeScript JSX,XML,JAVA,Properties,SQL,Markdown,ECMAScript 6,Sass,ActionScript 
+2018-05-29 13:31:50,786 [ 252750]   INFO - pl$FileIndexDataInitialization - Initialization done:1669 
+2018-05-29 13:31:50,891 [ 252855]   INFO - exImpl$StubIndexInitialization - Initialization done:104 
+2018-05-29 13:31:51,200 [ 253164]   INFO - j.ide.ui.OptionsTopHitProvider - 490 ms spent to cache options in application 
+2018-05-29 13:31:51,870 [ 253834]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@45551b82 
+2018-05-29 13:31:53,034 [ 254998]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@2f7e38d6 
+2018-05-29 13:31:53,131 [ 255095]   INFO - ellij.project.impl.ProjectImpl - 21 project components initialized in 196 ms 
+2018-05-29 13:31:53,345 [ 255309]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@644060ab 
+2018-05-29 13:31:53,353 [ 255317]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@66cc7d38 
+2018-05-29 13:34:56,448 [ 438412]   INFO -   #com.intellij.AbstractBundle - Cannot load resource bundle from *.properties file, falling back to slow class loading: messages.AspectJBundle 
+2018-05-29 13:34:56,449 [ 438413]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin com.intellij.aspectj resource-bundle: messages.AspectJBundle 
+2018-05-29 13:35:01,347 [ 443311]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-05-29 13:35:01,349 [ 443313]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-05-29 13:35:01,350 [ 443314]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-05-29 13:35:01,441 [ 443405]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-05-29 13:35:01,443 [ 443407]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-05-29 13:35:01,446 [ 443410]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2018-05-29 13:35:01,453 [ 443417]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-05-29 13:35:01,678 [ 443642]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-05-29 13:35:01,688 [ 443652]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-05-29 13:35:01,697 [ 443661]   INFO -   #com.intellij.util.Restarter - restart: [] 
+2018-05-29 13:35:01,712 [ 443676]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-05-29 13:35:01,733 [ 443697]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-05-29 13:35:03,426 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-05-29 13:35:03,500 [     74]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-181.4203.550, 27 Mar 2018 03:03) 
+2018-05-29 13:35:03,500 [     74]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-43-generic, amd64) 
+2018-05-29 13:35:03,500 [     74]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b20 (JetBrains s.r.o) 
+2018-05-29 13:35:03,500 [     74]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b20 (OpenJDK 64-Bit Server VM) 
+2018-05-29 13:35:03,501 [     75]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/jamessaludario/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/jamessaludario/java_error_in_IDEA.hprof -Didea.paths.selector=IntelliJIdea2018.1 -Djb.vmOptionsFile=/opt/idea-IU-181.4203.550/bin/idea64.vmoptions -Didea.jre.check=true 
+2018-05-29 13:35:03,501 [     75]   INFO -        #com.intellij.idea.Main - ext: /opt/idea-IU-181.4203.550/jre64/lib/ext: [cldrdata.jar, sunpkcs11.jar, meta-index, localedata.jar, zipfs.jar, nashorn.jar, sunjce_provider.jar, dnsns.jar, sunec.jar, jaccess.jar, jfxrt.jar] 
+2018-05-29 13:35:03,501 [     75]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-05-29 13:35:03,512 [     86]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 10 ms 
+2018-05-29 13:35:03,613 [    187]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-05-29 13:35:03,613 [    187]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-05-29 13:35:04,057 [    631]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@684e0f52[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@6e8417ea 
+2018-05-29 13:35:04,089 [    663]   INFO - .intellij.idea.IdeaApplication - WM detected: Compiz 
+2018-05-29 13:35:05,356 [   1930]   INFO - llij.ide.plugins.PluginManager - Plugin 'CVS Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,360 [   1934]   INFO - llij.ide.plugins.PluginManager - Plugin 'Perforce Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,360 [   1934]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,361 [   1935]   INFO - llij.ide.plugins.PluginManager - Plugin 'TFS Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,362 [   1936]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring AOP/@AspectJ' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,362 [   1936]   INFO - llij.ide.plugins.PluginManager - Plugin 'Ant Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,362 [   1936]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,362 [   1936]   INFO - llij.ide.plugins.PluginManager - Plugin 'Velocity support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,363 [   1937]   INFO - llij.ide.plugins.PluginManager - Plugin 'Mercurial Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,363 [   1937]   INFO - llij.ide.plugins.PluginManager - Plugin 'Persistence Frameworks Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,364 [   1938]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,364 [   1938]   INFO - llij.ide.plugins.PluginManager - Plugin 'Osmorc' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,367 [   1941]   INFO - llij.ide.plugins.PluginManager - Plugin 'Flash/Flex Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,368 [   1942]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: EJB, JPA, Servlets' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,368 [   1942]   INFO - llij.ide.plugins.PluginManager - Plugin 'GlassFish Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,369 [   1943]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,369 [   1943]   INFO - llij.ide.plugins.PluginManager - Plugin 'JSR45 Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,369 [   1943]   INFO - llij.ide.plugins.PluginManager - Plugin 'Jetty Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,369 [   1943]   INFO - llij.ide.plugins.PluginManager - Plugin 'Resin Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,369 [   1943]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tomcat and TomEE Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,370 [   1944]   INFO - llij.ide.plugins.PluginManager - Plugin 'CloudBees integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,370 [   1944]   INFO - llij.ide.plugins.PluginManager - Plugin 'Geronimo Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,373 [   1947]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebSphere Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,374 [   1948]   INFO - llij.ide.plugins.PluginManager - Plugin 'WebLogic Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,374 [   1948]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Bean Validation Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,375 [   1949]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Contexts and Dependency Injection' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,375 [   1949]   INFO - llij.ide.plugins.PluginManager - Plugin 'Hibernate Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,375 [   1949]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Batch Applications' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,375 [   1949]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: JMS, JSON Processing, Concurrency, Transaction ' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,375 [   1949]   INFO - llij.ide.plugins.PluginManager - Plugin 'Application Servers View' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,376 [   1950]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: WebSockets' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,376 [   1950]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Frameworks Base Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,376 [   1950]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Drools Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,376 [   1950]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Arquillian Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,376 [   1950]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java Server Pages (JSP) Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,377 [   1951]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 1.x' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,377 [   1951]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss jBPM' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,377 [   1951]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Java Server Faces' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,377 [   1951]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,378 [   1952]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pageflow Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,379 [   1953]   INFO - llij.ide.plugins.PluginManager - Plugin 'JBoss Seam Pages Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,379 [   1953]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,379 [   1953]   INFO - llij.ide.plugins.PluginManager - Plugin 'Cloud Foundry integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,379 [   1953]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: Web Services (JAX-WS)' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'dmServer Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'FreeMarker support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'GWT Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'Google App Engine Integration' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'Vaadin Support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,380 [   1954]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Batch' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,381 [   1955]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring OSGi' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,381 [   1955]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Data' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,381 [   1955]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring MVC' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,381 [   1955]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Security' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,381 [   1955]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Integration Patterns' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,382 [   1956]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Flow' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,382 [   1956]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring WebSocket' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,382 [   1956]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Web Services' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,383 [   1957]   INFO - llij.ide.plugins.PluginManager - Plugin 'Struts 2' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,384 [   1958]   INFO - llij.ide.plugins.PluginManager - Plugin 'Tapestry support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,384 [   1958]   INFO - llij.ide.plugins.PluginManager - Plugin 'Thymeleaf' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,385 [   1959]   INFO - llij.ide.plugins.PluginManager - Plugin 'Java EE: RESTful Web Services (JAX-RS)' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,385 [   1959]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration Extension' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,387 [   1961]   INFO - llij.ide.plugins.PluginManager - Plugin 'Grails' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,388 [   1962]   INFO - llij.ide.plugins.PluginManager - Plugin 'Haml' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,388 [   1962]   INFO - llij.ide.plugins.PluginManager - Plugin 'Stylus support' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,388 [   1962]   INFO - llij.ide.plugins.PluginManager - Plugin 'CoffeeScript' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,389 [   1963]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spring Boot' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,389 [   1963]   INFO - llij.ide.plugins.PluginManager - Plugin 'Spy-js' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,389 [   1963]   INFO - llij.ide.plugins.PluginManager - Plugin 'tslint' can't be loaded because: Plugin is disabled 
+2018-05-29 13:35:05,490 [   2064]   INFO - llij.ide.plugins.PluginManager - 136 plugins initialized in 1262 ms 
+2018-05-29 13:35:05,491 [   2065]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.0), AngularJS (181.4203.550), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (181.4203.550), Copyright (8.1), Coverage (181.4203.550), Cucumber for Groovy (181.4203.550), Cucumber for Java (181.4203.550), DSM Analysis (1.0.0), Database Tools and SQL (181.4203.550), Eclipse Integration (3.0), EditorConfig (181.4203.550), Emma (181.4203.550), Gherkin (999.999), Git Integration (8.1), GitHub (181.4203.550), Gradle (181.4203.550), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (181.4203.550), Heroku integration (181.4203.550), I18n for Java (181.4203.550), IDE Settings Sync (181.4203.550), IDEA CORE (181.4203.550), IntelliLang (8.0), J2ME (1.0), JUnit (1.0), Java Bytecode Decompiler (181.4203.550), Java Stream Debugger (181.4203.550), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Kotlin (1.2.30-release-IJ2018.1-1), Less support (181.4203.550), Markdown support (181.4203.550), OpenShift integration (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (181.4203.550), QuirksMode (181.4203.550), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (181.4203.550), Settings Repository (181.4203.550), Smali Support (1.0), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), UI Designer (181.4203.550), UML Support (1.0), W3C Validators (2.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (181.4203.550), ZKM-Unscramble (1.0) 
+2018-05-29 13:35:05,491 [   2065]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: IDE Features Trainer (0.8.62), LiveEdit (181.3870.1), NodeJS (181.4096.12), Scala (2018.1.9) 
+2018-05-29 13:35:05,491 [   2065]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (181.4203.550), Flash/Flex Support (181.4203.550), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Grails (9.0), Haml (181.4203.550), Hibernate Support (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Jetty Integration (1.0), Maven Integration (181.4203.550), Maven Integration Extension (181.4203.550), Mercurial Integration (10.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Resin Integration (8.1), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (181.4203.550), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), TestNG-J (8.0), Thymeleaf (1.0), Tomcat and TomEE Integration (1.0), Vaadin Support (1.0), Velocity support (1.0), WebLogic Integration (1.0), WebSphere Integration (1.0), dmServer Support (0.9.5), tslint (181.4203.550) 
+2018-05-29 13:35:06,187 [   2761]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-05-29 13:35:06,244 [   2818]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-05-29 13:35:06,271 [   2845]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:35:06,279 [   2853]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-05-29 13:35:06,406 [   2980]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2018-05-29 13:35:06,406 [   2980]   INFO - pi.util.registry.RegistryState -   SBT.system.in.process = true 
+2018-05-29 13:35:07,143 [   3717]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-05-29 13:35:07,468 [   4042]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@1ac1be89 
+2018-05-29 13:35:07,553 [   4127]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-05-29 13:35:07,618 [   4192]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-05-29 13:35:07,621 [   4195]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-05-29 13:35:07,867 [   4441]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:204, number of extensions:58 
+2018-05-29 13:35:07,878 [   4452]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:10 
+2018-05-29 13:35:07,946 [   4520]   INFO - .FrameworkDetectorRegistryImpl - New framework detectors: [AngularCLI] 
+2018-05-29 13:35:07,946 [   4520]   INFO - .FrameworkDetectorRegistryImpl - Framework detection index version changed to 1 
+2018-05-29 13:35:07,946 [   4520]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:63, number of extensions:123 
+2018-05-29 13:35:07,949 [   4523]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-05-29 13:35:07,947 [   4521]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index FrameworkDetectionIndex. The index will be rebuilt. 
+2018-05-29 13:35:08,224 [   4798]   INFO - pi.util.registry.RegistryValue - Registry value 'SBT.system.in.process' has changed to 'true" 
+2018-05-29 13:35:08,321 [   4895]   INFO - plication.impl.ApplicationImpl - 103 application components initialized in 4097ms 
+2018-05-29 13:35:08,332 [   4906]   INFO - .intellij.idea.IdeaApplication - App initialization took 5395 ms 
+2018-05-29 13:35:09,007 [   5581]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-05-29 13:35:09,440 [   6014]   INFO - ij.psi.stubs.StubUpdatingIndex - Stub version was changed for JavaScript,CFML,JSX Harmony,Play2,TypeScript,Flow,TypeScript JSX,ECMAScript 6,ActionScript 
+2018-05-29 13:35:09,653 [   6227]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index js.custom.single.entry.index. The index will be rebuilt. 
+2018-05-29 13:35:09,660 [   6234]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index js.implicit.elements.index. The index will be rebuilt. 
+2018-05-29 13:35:09,747 [   6321]   INFO - pl$FileIndexDataInitialization - Initialization done:1863 
+2018-05-29 13:35:10,015 [   6589]   INFO - exImpl$StubIndexInitialization - Initialization done:267 
+2018-05-29 13:35:10,889 [   7463]   INFO - j.ide.ui.OptionsTopHitProvider - 1603 ms spent to cache options in application 
+2018-05-29 13:35:11,835 [   8409]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@1dfb1374 
+2018-05-29 13:35:11,957 [   8531]   INFO - ellij.project.impl.ProjectImpl - 21 project components initialized in 281 ms 
+2018-05-29 13:35:13,544 [  10118]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@3869d57d 
+2018-05-29 13:35:13,938 [  10512]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@6eb86154 
+2018-05-29 13:35:13,943 [  10517]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@6ec420e7 
+2018-05-29 13:35:27,994 [  24568]   INFO - r.local.NodeJsLocalInterpreter - /usr/bin/node /usr/lib/node_modules/npm/bin/npm-cli.js config get prefix=/usr (192 ms) 
+2018-05-29 13:35:28,979 [  25553]   INFO - .TypeScriptLibraryProviderImpl - Start refreshing typescript libraries 
+2018-05-29 13:35:29,153 [  25727]   INFO - .TypeScriptLibraryProviderImpl - End refreshing typescript libraries 
+2018-05-29 13:35:47,218 [  43792]   INFO - ellij.project.impl.ProjectImpl - 201 project components initialized in 1207 ms 
+2018-05-29 13:35:47,218 [  43792]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-05-29 13:35:47,486 [  44060]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-05-29 13:35:47,744 [  44318]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-05-29 13:35:48,060 [  44634]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-05-29 13:35:48,129 [  44703]   WARN - jection.LibraryInjectorLoader$ - Failed to load injector cache, continuing with empty(/home/jamessaludario/.IntelliJIdea2018.1/system/scalainjectorCache/libs.index (No such file or directory)) 
+2018-05-29 13:35:48,308 [  44882]   INFO - ing.migration.MigrationManager - Adding lesson states from previous version (0.7.49) of trainingPlugin / IDE Features Trainer from xml file: trainingPlugin 
+2018-05-29 13:35:48,807 [  45381]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 2 millis 
+2018-05-29 13:35:48,847 [  45421]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2018-05-29 13:35:48,847 [  45421]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2018-05-29 13:35:48,848 [  45422]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2018-05-29 13:35:48,877 [  45451]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 199ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:48,890 [  45464]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 38ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:49,322 [  45896]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 428ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:49,323 [  45897]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 264 files to update 
+2018-05-29 13:35:49,456 [  46030]   INFO - tartup.impl.StartupManagerImpl - /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea case-sensitivity: expected=true actual=true 
+2018-05-29 13:35:49,466 [  46040]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-05-29 13:35:49,491 [  46065]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:35:49,508 [  46082]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-05-29 13:35:49,511 [  46085]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml 
+2018-05-29 13:35:49,512 [  46086]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /home/jamessaludario/IdeaProjects/angular-tour-of-heroes 
+2018-05-29 13:35:49,512 [  46086]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea, file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml] 
+2018-05-29 13:35:49,512 [  46086]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2018-05-29 13:35:49,515 [  46089]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml 
+2018-05-29 13:35:49,515 [  46089]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /home/jamessaludario/IdeaProjects/angular-tour-of-heroes 
+2018-05-29 13:35:49,515 [  46089]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea, file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml] 
+2018-05-29 13:35:49,515 [  46089]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2018-05-29 13:35:49,516 [  46090]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml 
+2018-05-29 13:35:49,516 [  46090]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /home/jamessaludario/IdeaProjects/angular-tour-of-heroes 
+2018-05-29 13:35:49,516 [  46090]   INFO - ols.npm.PackageJsonFileManager - Found package.json in /home/jamessaludario/IdeaProjects/angular-tour-of-heroes: null 
+2018-05-29 13:35:49,516 [  46090]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2018-05-29 13:35:49,525 [  46099]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 3895 ms 
+2018-05-29 13:35:49,550 [  46124]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:49,588 [  46162]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 37ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:49,589 [  46163]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 264 files to update 
+2018-05-29 13:35:49,695 [  46269]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/jamessaludario/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input 
+2018-05-29 13:35:53,254 [  49828]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 3665ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:53,330 [  49904]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2018-05-29 13:35:53,441 [  50015]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-05-29 13:35:53,533 [  50107]   INFO - j.ide.ui.OptionsTopHitProvider - 143 ms spent to cache options in project 
+2018-05-29 13:35:53,679 [  50253]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-05-29 13:35:53,800 [  50374]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:35:54,503 [  51077]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml 
+2018-05-29 13:35:54,505 [  51079]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /home/jamessaludario/IdeaProjects/angular-tour-of-heroes 
+2018-05-29 13:35:54,505 [  51079]   INFO - ols.npm.PackageJsonFileManager - Found package.json in /home/jamessaludario/IdeaProjects/angular-tour-of-heroes: null 
+2018-05-29 13:35:54,505 [  51079]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:54,556 [  51130]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 49ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:54,558 [  51132]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:35:54,559 [  51133]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:36:43,742 [ 100316]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 28 to update, calculated in 0ms 
+2018-05-29 13:36:44,279 [ 100853]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 537ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:36:53,715 [ 110289]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:36:53,796 [ 110370]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:36:53,799 [ 110373]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:01,209 [ 117783]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,209 [ 117783]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:01,373 [ 117947]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,373 [ 117947]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:01,560 [ 118134]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,560 [ 118134]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:01,740 [ 118314]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,740 [ 118314]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:01,848 [ 118422]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,848 [ 118422]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:01,952 [ 118526]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:01,952 [ 118526]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:02,088 [ 118662]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:02,088 [ 118662]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:02,260 [ 118834]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2018-05-29 13:37:02,260 [ 118834]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IU-181.4203.550/bin/fsnotifier64 
+2018-05-29 13:37:02,950 [ 119524]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:37:03,003 [ 119577]   INFO - ry.NodeModulesDirectoryManager - Associate angular-tour-of-heroes/angular-tour-of-heroes/node_modules with [file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes] 
+2018-05-29 13:37:03,005 [ 119579]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:37:03,061 [ 119635]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/platform-browser/package.json: End of input at line 17 column 16 path $._requested. 
+2018-05-29 13:37:03,064 [ 119638]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/router/package.json: Unterminated string at line 25 column 35 path $._where 
+2018-05-29 13:37:03,065 [ 119639]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/common/package.json: Unterminated string at line 17 column 12 path $._requested. 
+2018-05-29 13:37:03,067 [ 119641]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/core/package.json: Unterminated string at line 16 column 9 path $._requested. 
+2018-05-29 13:37:03,068 [ 119642]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@types/jasmine/package.json: End of input at line 51 column 13 path $.contributors[0]. 
+2018-05-29 13:37:03,069 [ 119643]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/http/package.json: End of input at line 19 column 3 path $.null 
+2018-05-29 13:37:03,071 [ 119645]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/compiler-cli/package.json: End of input at line 28 column 15 path $.bin.ng-xi18n 
+2018-05-29 13:37:03,073 [ 119647]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/cli/package.json: Unterminated string at line 85 column 7 path $.dependencies.null 
+2018-05-29 13:37:03,075 [ 119649]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/animations/package.json: Unterminated string at line 16 column 12 path $._requested. 
+2018-05-29 13:37:03,077 [ 119651]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/compiler/package.json: Unterminated string at line 13 column 24 path $._requested. 
+2018-05-29 13:37:03,079 [ 119653]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/ts-node/package.json: End of input at line 82 column 14 path $.engines 
+2018-05-29 13:37:03,080 [ 119654]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@types/node/package.json: Unterminated string at line 53 column 12 path $.contributors[0]. 
+2018-05-29 13:37:03,081 [ 119655]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/protractor/package.json: End of input at line 82 column 2 path $.devDependencies.null 
+2018-05-29 13:37:03,082 [ 119656]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/platform-browser-dynamic/package.json: Unterminated string at line 22 column 44 path $._resolved 
+2018-05-29 13:37:03,085 [ 119659]   INFO - ascript.nodejs.PackageJsonData - Failed to parse /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes/node_modules/@angular/forms/package.json: Unterminated string at line 22 column 29 path $._resolved 
+2018-05-29 13:37:05,266 [ 121840]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 3ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:05,360 [ 121934]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 93ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:05,361 [ 121935]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 9586 files to update 
+2018-05-29 13:37:08,214 [ 124788]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:37:08,231 [ 124805]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-05-29 13:37:08,311 [ 124885]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 10360 to update, calculated in 75ms 
+2018-05-29 13:37:11,716 [ 128290]   INFO - ellij.project.impl.ProjectImpl - 201 project components initialized in 168 ms 
+2018-05-29 13:37:11,726 [ 128300]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 9 ms 
+2018-05-29 13:37:11,866 [ 128440]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-05-29 13:37:11,952 [ 128526]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-05-29 13:37:11,963 [ 128537]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 13ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:12,051 [ 128625]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:12,220 [ 128794]   INFO - tartup.impl.StartupManagerImpl - /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea case-sensitivity: expected=true actual=true 
+2018-05-29 13:37:12,221 [ 128795]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-05-29 13:37:12,398 [ 128972]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 856 ms 
+2018-05-29 13:37:12,457 [ 129031]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 406ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:12,474 [ 129048]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 9853 files to update 
+2018-05-29 13:37:14,428 [ 131002]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-05-29 13:37:14,535 [ 131109]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-05-29 13:37:15,931 [ 132505]   INFO - ellij.project.impl.ProjectImpl - 201 project components initialized in 108 ms 
+2018-05-29 13:37:15,935 [ 132509]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 4 ms 
+2018-05-29 13:37:16,076 [ 132650]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-05-29 13:37:16,144 [ 132718]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 1 millis 
+2018-05-29 13:37:16,145 [ 132719]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 3ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:16,256 [ 132830]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:16,404 [ 132978]   INFO - tartup.impl.StartupManagerImpl - /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea case-sensitivity: expected=true actual=true 
+2018-05-29 13:37:16,408 [ 132982]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-05-29 13:37:16,502 [ 133076]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 686 ms 
+2018-05-29 13:37:16,510 [ 133084]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 254ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:37:16,512 [ 133086]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 9734 files to update 
+2018-05-29 13:37:17,087 [ 133661]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-05-29 13:37:18,582 [ 135156]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-05-29 13:38:08,043 [ 184617]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/jamessaludario/.IntelliJIdea2018.1/system/compile-server/angular-tour-of-heroes_73f6f2ba 
+2018-05-29 13:44:04,264 [ 540838]   INFO - ellij.project.impl.ProjectImpl - 201 project components initialized in 69 ms 
+2018-05-29 13:44:04,264 [ 540838]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-05-29 13:44:04,410 [ 540984]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-05-29 13:44:04,455 [ 541029]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-05-29 13:44:04,466 [ 541040]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-05-29 13:44:04,467 [ 541041]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2018-05-29 13:44:04,468 [ 541042]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2018-05-29 13:44:04,470 [ 541044]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2018-05-29 13:44:04,475 [ 541049]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:44:04,476 [ 541050]   INFO - ry.NodeModulesDirectoryManager - Associate angular-tour-of-heroes/node_modules with [file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes] 
+2018-05-29 13:44:04,478 [ 541052]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:44:04,480 [ 541054]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 2 
+2018-05-29 13:44:04,482 [ 541056]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 18ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:04,534 [ 541108]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 3 
+2018-05-29 13:44:04,560 [ 541134]   INFO - tartup.impl.StartupManagerImpl - /home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea case-sensitivity: expected=true actual=true 
+2018-05-29 13:44:04,712 [ 541286]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-05-29 13:44:04,754 [ 541328]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-05-29 13:44:04,890 [ 541464]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2018-05-29 13:44:04,890 [ 541464]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2018-05-29 13:44:04,890 [ 541464]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2018-05-29 13:44:04,929 [ 541503]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 743 ms 
+2018-05-29 13:44:05,145 [ 541719]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 391ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:05,146 [ 541720]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 10477 files to update 
+2018-05-29 13:44:16,690 [ 553264]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-05-29 13:44:29,108 [ 565682]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 23962ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:29,109 [ 565683]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 1070 to update, calculated in 1ms 
+2018-05-29 13:44:29,842 [ 566416]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 733ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:29,859 [ 566433]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2018-05-29 13:44:30,074 [ 566648]   INFO - j.ide.ui.OptionsTopHitProvider - 158 ms spent to cache options in project 
+2018-05-29 13:44:31,034 [ 567608]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /opt/idea-IU-181.4203.550/lib/platform-impl.jar!/resources/html5-schema/html5.rnc 
+2018-05-29 13:44:31,034 [ 567608]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /opt/idea-IU-181.4203.550/lib/platform-impl.jar!/resources/html5-schema/xhtml5.rnc 
+2018-05-29 13:44:31,035 [ 567609]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /opt/idea-IU-181.4203.550/lib/platform-impl.jar!/resources/html5-schema/html5chars.ent 
+2018-05-29 13:44:35,310 [ 571884]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-29 13:44:35,348 [ 571922]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:35,652 [ 572226]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 304ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:35,657 [ 572231]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 29 files to update 
+2018-05-29 13:44:39,578 [ 576152]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 3921ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 13:44:40,302 [ 576876]   INFO - tellij.vcs.log.data.VcsLogData - Username not configured for root file:///home/jamessaludario/IdeaProjects/angular-tour-of-heroes 
+2018-05-29 13:46:21,441 [ 678015]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-05-29 13:48:07,096 [ 783670]   INFO - son.PackageVersionRangeMatcher - Matching 30 done in 86 ms 
+2018-05-29 14:06:15,915 [1872489]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false add --ignore-errors -- src/app/hero.ts 
+2018-05-29 14:06:36,545 [1893119]   INFO -   #com.intellij.AbstractBundle - Cannot load resource bundle from *.properties file, falling back to slow class loading: messages.AspectJBundle 
+2018-05-29 14:06:36,546 [1893120]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin com.intellij.aspectj resource-bundle: messages.AspectJBundle 
+2018-05-29 14:26:27,839 [3084413]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false add --ignore-errors -- src/app/mock-heroes.ts 
+2018-05-29 15:55:22,497 [8419071]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/hero.service.spec.ts 
+2018-05-29 15:55:32,617 [8429191]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/hero.service.ts 
+2018-05-29 16:02:19,677 [8836251]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/heroes/hero.service.ts 
+2018-05-29 16:02:23,987 [8840561]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/heroes/hero.service.spec.ts 
+2018-05-29 16:07:00,115 [9116689]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 72 ms 
+2018-05-29 16:10:26,675 [9323249]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/hero.service.spec.ts src/app/hero.service.ts src/app/message.service.spec.ts src/app/message.service.ts 
+2018-05-29 16:23:32,415 [10108989]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 134ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 16:23:43,503 [10120077]   INFO - ex.GlobalInspectionContextImpl - Code inspection started 
+2018-05-29 16:23:43,609 [10120183]   INFO - nspection.reference.RefManager - Total duration of processing project usages:3 
+2018-05-29 16:23:43,735 [10120309]   INFO - ex.GlobalInspectionContextImpl - Code inspection finished. Took 151ms 
+2018-05-29 16:23:52,279 [10128853]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 60ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-29 17:00:00,100 [12296674]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/message.service.ts src/app/message.service.spec.ts 
+2018-05-29 17:00:15,649 [12312223]   INFO -  #git4idea.commands.GitHandler - [angular-tour-of-heroes] git -c core.quotepath=false -c log.showSignature=false rm --ignore-unmatch --cached -- src/app/messages/messages.component.ts src/app/messages/messages.component.css src/app/messages/messages.component.html src/app/messages/messages.component.spec.ts 
+2018-05-29 17:49:04,564 [15241138]   INFO - son.PackageVersionRangeMatcher - Matching 30 done in 59 ms 
+2018-05-29 17:49:10,844 [15247418]   INFO - ageJson.NpmRegistryServiceImpl - Found 7 dist-tags for rxjs in 309ms 
+2018-05-29 17:49:11,106 [15247680]   INFO - son.PackageVersionRangeMatcher - Matching 1 done in 124 ms 

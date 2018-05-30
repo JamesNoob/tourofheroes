@@ -1,0 +1,13 @@
+[05/30/18, 07:51:26:964] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/30/18, 07:51:26:964] info: ║      Slack 3.1.1, linux 4.13.0-43-generic on x64 at 05/30/18, 07:51:26:961      ║
+[05/30/18, 07:51:26:964] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/30/18, 07:51:27:160] info: Initializing local storage instance at path: /home/jamessaludario/.config/Slack/local-settings.json
+[05/30/18, 07:51:27:273] info: NetworkStatus: Waiting for network online…
+[05/30/18, 07:51:27:692] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/30/18, 07:51:28:096] info: Store: SET_NETWORK_STATUS online
+[05/30/18, 07:51:43:823] info: Store: QUIT_APP
+[05/30/18, 07:51:43:859] info: Store: REMOVE_WINDOW 2
+[05/30/18, 07:51:43:872] info: Store: QUIT_APP

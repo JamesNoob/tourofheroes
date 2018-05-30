@@ -1,0 +1,284 @@
+2018/05/29 13:25:42.290  9052 139887707663552 GX0   Logger started.
+2018/05/29 13:25:42.291  9052 139887707663552 GX0!! DumpFileCommon: Default dump directory path not found, Errorcode=11
+2018/05/29 13:25:42.291  9052 139887707663552 GX0!! Delete old dumps (.core): core file path "" not valid (system:2), Errorcode=11
+2018/05/29 13:25:42.291  9052 139887707663552 GX0   Found 0 core dump files ...
+2018/05/29 13:25:42.291  9052 139887707663552 GX0!! Delete old dumps (.stack): core file path "" not valid (system:2), Errorcode=11
+2018/05/29 13:25:42.293  9052 139887707663552 GX0   systemd: logind service available
+2018/05/29 13:25:42.294  9052 139887707663552 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c6', canGraphical=1, canTTY=1, canMultiSession=1]
+2018/05/29 13:25:42.295  9052 139887707663552 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c5 user=lightdm state=greeter active=0 reliable=1 infoId=1505423032] [path=/org/freedesktop/login1/session/c5 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: lightdm [uid=108, gid=114 home=/var/lib/lightdm gecos=Light Display Manager shell=/bin/false]] idle=0(0) active=0 type=x11 class=greeter state=closing timestamp=1527571535901410 service=lightdm-greeter defaultCG= leader=8580 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/05/29 13:25:42.295  9052 139887707663552 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c4 user=rodneypantonial state=user active=0 reliable=1 infoId=784195118] [path=/org/freedesktop/login1/session/c4 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: rodneypantonial [uid=1002, gid=1002 home=/home/rodneypantonial gecos=Rodney Pantonial,,, shell=/bin/bash]] idle=0(0) active=0 type=x11 class=user state=closing timestamp=1527571415189667 service=lightdm defaultCG= leader=7020 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/05/29 13:25:42.296  9052 139887707663552 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c6 user=jamessaludario state=user active=1 reliable=1 infoId=3233005314] [path=/org/freedesktop/login1/session/c6 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: jamessaludario [uid=1004, gid=1005 home=/home/jamessaludario gecos=James Saludario,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1527571541275148 service=lightdm defaultCG= leader=8739 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/05/29 13:25:42.297  9052 139887707663552 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2018/05/29 13:25:42.297  9052 139887707663552 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2018/05/29 13:25:42.297  9052 139887707663552 GX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2018/05/29 13:25:42.298  9052 139887707663552 GX0   SysSessionInfoManager: own session cache set to '3233005314'
+2018/05/29 13:25:42.306  9052 139887707663552 GX0   Running on Qt 5.5.1
+2018/05/29 13:25:42.356  9052 139887707663552 GX0   GuiMain SM fallback: symbol not found
+2018/05/29 13:25:42.357  9052 139887707663552 GX0   Initialised XRandR extension 1.5 (base=89 error=147)
+2018/05/29 13:25:42.371  9052 139887707663552 GX0   MonitorInfo: [XRandR 1.2] CRTC DP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2018/05/29 13:25:42.371  9052 139887707663552 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2018/05/29 13:25:42.371  9052 139887707663552 GX0   Virtual Desktop [0, 0, 1366, 768]
+2018/05/29 13:25:42.385  9052 139887707663552 GX0   MonitorInfo: [XRandR 1.2] CRTC DP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2018/05/29 13:25:42.385  9052 139887707663552 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2018/05/29 13:25:42.385  9052 139887707663552 GX0   Virtual Desktop [0, 0, 1366, 768]
+2018/05/29 13:25:42.385  9052 139887707663552 GX0!! MonitorInfo: WorkingArea: Property error 14 (0), Errorcode=11
+2018/05/29 13:25:42.397  9052 139887707663552 GX0   Loaded language 'en', using locale 'en-PH'
+2018/05/29 13:25:42.397  9052 139887707663552 GX0   InterProcessBase::SecureNetwork created
+2018/05/29 13:25:42.398  9052 139887707663552 GX0   AutoLogin::Login: enabled: 1
+2018/05/29 13:25:42.398  9052 139887707663552 GX0   WindowsSessionStateManager(0x20e7200) state 0
+2018/05/29 13:25:42.399  9052 139886433675008 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2018/05/29 13:25:42.399  9052 139886433675008 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2018/05/29 13:25:42.399  9052 139887663470336 GX0   Local TCP connection established
+2018/05/29 13:25:42.491  9052 139887655077632 GX0   SystemID m=1 s=1 ad0e5822fd334e3cbedabb785703881a
+2018/05/29 13:25:42.493  9052 139887655077632 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2018/05/29 13:25:42.494  9052 139887646684928 GX0   Received Control_InitIPC_Response processtype=1
+2018/05/29 13:25:42.494  9052 139887646684928 GX0   Received Control_InitIPC_Response runningProcesses=3
+2018/05/29 13:25:42.494  9052 139887646684928 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+2018/05/29 13:25:42.496  9052 139887646684928 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 87ba5c16-6205-4a0b-abcd-a445035f26a3)
+
+
+
+Start:              2018/05/29 13:25:42.495 (UTC+8:00)
+Version:            13.1.3026 
+ID:                 0
+Loglevel:           Info (100)
+License:            10000
+Server:             master12.teamviewer.com
+IC:                 1121106749
+CPU:                Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+CPU extensions:     l9
+OS:                 Lx Ubuntu 16.04.4 LT (x86_64)
+IP:                 192.165.2.183,172.17.0.1,172.18.0.1
+Proxy-Settings:     Type=0 IP= User=
+
+2018/05/29 13:25:42.523  9052 139887663470336 GX0   Account::UpdateState: KA = 1, active = 1
+2018/05/29 13:25:42.524  9052 139887707663552 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=804068531 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2018/05/29 13:25:42.742  9052 139887655077632 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "804068531", TSUserID "804068531", ServerID "804068531"
+2018/05/29 13:25:42.742  9052 139887707663552 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2018/05/29 13:25:42.742  9052 139887646684928 GX0   ChatManager::ChatManager: created
+2018/05/29 13:25:42.742  9052 139887646684928 GX0   ChatManager::Factory: ChatManager created
+2018/05/29 13:25:42.742  9052 139887646684928 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2018/05/29 13:25:42.742  9052 139887646684928 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2018/05/29 13:25:42.742  9052 139887655077632 GX0   IpcRouterClock: received router time: 20180529T052542.117665
+2018/05/29 13:25:42.743  9052 139887646684928 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 479110f2-1c52-47c3-8432-351d38b173a4)
+2018/05/29 13:25:42.743  9052 139887646684928 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2018/05/29 13:25:42.743  9052 139887707663552 GX0   Initialised XFixes extension (base=87 error=140)
+2018/05/29 13:25:42.744  9052 139887707663552 GX0   Account::SetLoginState: new state: 2
+2018/05/29 13:25:42.744  9052 139887707663552 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2018/05/29 13:25:44.153  9052 139887707663552 GX0   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.52
+2018/05/29 13:25:44.187  9052 139887707663552 GX0   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2018/05/29 13:25:44.824  9052 139887707663552 GX0   DBusStatusNotifier: active [1/0] (2)
+2018/05/29 13:36:22.386  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:36:22.388  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:36:22.390  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=91, c=182)
+2018/05/29 13:36:25.440  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:36:25.441  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:36:25.441  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=91, c=182)
+2018/05/29 13:36:26.927  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:36:26.929  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:36:26.930  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=91, c=182)
+2018/05/29 13:37:34.642  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:37:34.645  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:37:34.646  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=80, c=160)
+2018/05/29 13:37:43.914  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:37:43.916  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:37:43.917  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=57, c=114)
+2018/05/29 13:37:47.585  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:37:47.590  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:37:47.591  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=80, c=160)
+2018/05/29 13:47:39.125  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 13:47:39.127  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 13:47:39.127  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 13:47:39.137  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=3774, c=3774)
+2018/05/29 13:47:39.137  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1073, c=2146)
+2018/05/29 14:12:37.319  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:12:37.320  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:12:37.320  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:12:37.322  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=278, c=278)
+2018/05/29 14:12:37.343  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=25, c=50)
+2018/05/29 14:13:28.331  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:13:28.332  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:13:28.332  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:13:28.336  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=282, c=282)
+2018/05/29 14:13:28.336  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=20, c=40)
+2018/05/29 14:15:23.237  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:15:23.247  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:15:23.247  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:15:23.252  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=1278, c=1278)
+2018/05/29 14:15:23.260  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=178, c=356)
+2018/05/29 14:28:51.651  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:28:51.655  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:28:51.655  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:28:51.657  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=7262, c=7262)
+2018/05/29 14:28:51.658  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=306, c=612)
+2018/05/29 14:36:47.730  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:36:47.731  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:36:47.731  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:36:47.731  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=15630, c=15630)
+2018/05/29 14:36:47.732  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=821, c=1642)
+2018/05/29 14:48:20.841  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:48:20.846  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:48:20.850  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=17, c=34)
+2018/05/29 14:52:12.050  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 14:52:12.052  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 14:52:12.052  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 14:52:12.056  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=384, c=384)
+2018/05/29 14:52:12.057  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=17, c=34)
+2018/05/29 15:04:13.017  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:04:13.018  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:04:13.018  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:04:13.020  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=1644, c=1644)
+2018/05/29 15:04:13.028  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=247, c=494)
+2018/05/29 15:11:15.951  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:11:15.952  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:11:15.952  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:11:15.957  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=1752, c=1752)
+2018/05/29 15:11:15.966  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=247, c=494)
+2018/05/29 15:17:04.469  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:17:04.469  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:17:04.469  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:17:04.472  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=2348, c=2348)
+2018/05/29 15:17:04.477  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=303, c=606)
+2018/05/29 15:20:48.726  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:20:48.727  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:20:48.727  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:20:48.728  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=314, c=314)
+2018/05/29 15:20:48.728  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=21, c=42)
+2018/05/29 15:47:50.047  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:47:50.048  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:47:50.051  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=16, c=32)
+2018/05/29 15:54:03.566  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:54:03.570  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:54:03.570  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:54:03.574  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=924, c=924)
+2018/05/29 15:54:03.575  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=39, c=78)
+2018/05/29 15:56:14.827  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:56:14.832  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 15:56:14.832  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:56:14.833  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=440, c=440)
+2018/05/29 15:56:14.834  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=20, c=40)
+2018/05/29 15:57:07.353  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 15:57:07.355  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 15:57:07.359  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=71, c=142)
+2018/05/29 16:03:26.941  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:03:26.943  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:03:26.944  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=518, c=1036)
+2018/05/29 16:05:14.321  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:05:14.322  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 16:05:14.323  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:05:14.324  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=5354, c=5354)
+2018/05/29 16:05:14.324  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=314, c=628)
+2018/05/29 16:06:17.252  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:06:17.261  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 16:06:17.261  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:06:17.262  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=10638, c=10638)
+2018/05/29 16:06:17.263  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=824, c=1648)
+2018/05/29 16:26:57.093  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:26:57.107  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:26:57.113  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=50, c=100)
+2018/05/29 16:27:03.731  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:27:03.732  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:27:03.733  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=68, c=136)
+2018/05/29 16:32:42.826  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:32:42.830  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:32:42.832  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=103, c=206)
+2018/05/29 16:37:54.257  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:37:54.259  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:37:54.263  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=247, c=494)
+2018/05/29 16:39:59.966  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:39:59.968  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 16:39:59.968  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:39:59.969  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=8452, c=8452)
+2018/05/29 16:39:59.970  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=607, c=1214)
+2018/05/29 16:40:01.192  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:40:01.199  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:40:01.201  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=518, c=1036)
+2018/05/29 16:40:14.086  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:40:14.087  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:40:14.088  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=247, c=494)
+2018/05/29 16:40:25.204  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:40:25.208  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:40:25.212  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=622, c=1244)
+2018/05/29 16:40:44.250  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:40:44.251  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:40:44.251  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=366, c=732)
+2018/05/29 16:40:56.966  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:40:56.971  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:40:56.977  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=231, c=462)
+2018/05/29 16:41:06.460  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:41:06.462  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:41:06.470  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=578, c=1156)
+2018/05/29 16:41:14.551  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:41:14.552  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:41:14.553  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=723, c=1446)
+2018/05/29 16:41:28.557  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:41:28.558  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:41:28.560  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=723, c=1446)
+2018/05/29 16:41:42.686  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:41:42.688  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:41:42.692  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=75, c=150)
+2018/05/29 16:56:48.540  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:56:48.541  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 16:56:48.541  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:56:48.546  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=220, c=220)
+2018/05/29 16:56:48.546  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=7, c=14)
+2018/05/29 16:59:03.515  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:59:03.517  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:59:03.520  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=473, c=946)
+2018/05/29 16:59:09.931  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:59:09.933  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:59:09.939  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=451, c=902)
+2018/05/29 16:59:26.140  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 16:59:26.145  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 16:59:26.147  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=864, c=1728)
+2018/05/29 17:05:35.257  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:05:35.262  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 17:05:35.262  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:05:35.266  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=368, c=368)
+2018/05/29 17:05:35.290  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=29, c=58)
+2018/05/29 17:26:35.452  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:26:35.455  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:26:35.456  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=247, c=494)
+2018/05/29 17:27:40.452  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:27:40.456  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:27:40.458  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=864, c=1728)
+2018/05/29 17:30:37.634  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:30:37.638  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:30:37.646  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=231, c=462)
+2018/05/29 17:46:22.261  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:46:22.263  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 17:46:22.264  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:46:22.266  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=230, c=230)
+2018/05/29 17:46:22.266  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=17, c=34)
+2018/05/29 17:51:27.286  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:51:27.287  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/29 17:51:27.287  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:51:27.301  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=384, c=384)
+2018/05/29 17:51:27.305  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=40, c=80)
+2018/05/29 17:56:59.092  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:56:59.094  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:56:59.099  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=29, c=58)
+2018/05/29 17:58:05.287  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:58:05.289  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:58:05.293  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=39, c=78)
+2018/05/29 17:58:22.513  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 17:58:22.514  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 17:58:22.517  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=14, c=28)
+2018/05/29 18:01:46.748  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 18:01:46.749  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 18:01:46.750  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=182, c=364)
+2018/05/29 18:02:01.467  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 18:02:01.479  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 18:02:01.483  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=560, c=1120)
+2018/05/29 18:02:13.936  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/29 18:02:13.942  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/29 18:02:13.946  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=978, c=1956)
+2018/05/29 23:20:30.232  9052 139887638292224 GX0   IpcRouterClock: received router time: 20180529T152030.042607
+2018/05/30 08:14:15.472  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/30 08:14:15.475  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/30 08:14:15.476  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=43, c=86)
+2018/05/30 08:14:43.100  9052 139886433675008 GX0   XClipboard: RequestClipboard as TARGETS (421)
+2018/05/30 08:14:43.101  9052 139886433675008 GX0   XClipboard: RequestClipboard as text/html (490)
+2018/05/30 08:14:43.102  9052 139886433675008 GX0   XClipboard: RequestClipboard as UTF8_STRING (291)
+2018/05/30 08:14:43.106  9052 139886433675008 GX0   XClipboard: Got clipboard as 'text/html', size (n=574, c=574)
+2018/05/30 08:14:43.117  9052 139886433675008 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=77, c=154)

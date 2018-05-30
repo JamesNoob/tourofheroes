@@ -1,0 +1,5 @@
+Could not get window property "_GTK_MENUBAR_OBJECT_PATH" "/org/ayatana/bamf/window/79749258"
+Could not get window property "_GTK_APPLICATION_OBJECT_PATH" "/org/ayatana/bamf/window/79749258"
+Could not get window property "_GTK_WINDOW_OBJECT_PATH" "/org/ayatana/bamf/window/79749258"
+Could not get window property "_UNITY_OBJECT_PATH" "/org/ayatana/bamf/window/79749258"
+Could not get desktop file for "/org/ayatana/bamf/window/79752365" QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/0xffbe50")

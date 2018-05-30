@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/jamessaludario/.cache/upstart/upstart-event-bridge.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/window-stack-bridge.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_notify-send.1001.crash.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/unity-settings-daemon.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/hud.log" 2018-5-30-7:0:0
+"/home/jamessaludario/.cache/upstart/update-notifier-crash-_var_crash__opt_teamviewer_tv_bin_TeamViewer.1000.crash.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/unity7.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/dbus.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/unity-panel-service.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/ssh-agent.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/bamfdaemon.log" 2018-5-30-7:0:0
+"/home/jamessaludario/.cache/upstart/gnome-keyring-ssh.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/indicator-sound.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/gpg-agent.log" 2018-5-30-7:35:2
+"/home/jamessaludario/.cache/upstart/update-notifier-release.log" 2018-5-30-7:35:2

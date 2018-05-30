@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="Play2ModuleTypeConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea/misc.xml" timestamp="1527572149000" />
+    <file path="/home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea/modules.xml" timestamp="1527572149000" />
+    <file path="/home/jamessaludario/IdeaProjects/angular-tour-of-heroes/.idea/workspace.xml" timestamp="1527572238000" />
+    <file path="/home/jamessaludario/IdeaProjects/angular-tour-of-heroes/angular-tour-of-heroes.iml" timestamp="1527572221000" />
+  </project-files>
+</conversion>
+

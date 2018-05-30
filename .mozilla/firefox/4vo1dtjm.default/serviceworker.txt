@@ -1,0 +1,11 @@
+8
+
+https://angular.io/
+https://angular.io/worker-basic.min.js
+true
+{2bf79fcd-40d2-4b15-ac2d-4e05a3744555}
+0
+1527571968564789
+1527571968584334
+1527571968510740
+#

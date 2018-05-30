@@ -1,0 +1,20 @@
+ERROR 2018-05-30 07:51:24 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-05-30 07:51:24 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x37f76a0 at position 1. The row has probably been removed
+ERROR 2018-05-30 07:51:24 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x37f76a0 holds a NULL value in row 1
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch type: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch monitor: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch maximized state: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/0xffbe50
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/79752365
+WARN  2018-05-30 08:26:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/0xffbe50
